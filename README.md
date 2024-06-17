@@ -33,3 +33,5 @@ Write-Host "Permissions set successfully for $path"
 click on this link (download link 👍)
 
 ```https://mobaxterm.mobatek.net/download.html```
+
+# Home Edition > Installer Edition  >   Then Download
