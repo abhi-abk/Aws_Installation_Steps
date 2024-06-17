@@ -30,8 +30,21 @@ Write-Host "Permissions set successfully for $path"
 
 # Installing MobaXterminal
 
-click on this link (download link 👍)
+click on this link (download link ✔️☑️👍)
 
 ```https://mobaxterm.mobatek.net/download.html```
 
 # Home Edition > Installer Edition  >   Then Download
+
+
+
+
+# Installing Putty Software
+
+click on this link (download link ✔️☑️✅)
+
+```
+https://www.putty.org/
+```
+
+# Click on download putty > MSI (‘Windows Installer’) > 64-bit x86: (click on this)
