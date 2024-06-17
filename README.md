@@ -6,7 +6,7 @@ Installation And Steps
   # GoTo Setting >> Apps >> Optional Features >> Add an optional feautre >> Serach for >>  1. OpenSSH Client & Install.  2. OpenSHH Sever & Install.
  # After that go to the Pem file location then right-click & Open in Terminal & Pest these commands 👇 
 # Commands for change file permission 
-
+```
 # Set the path to the security key & Replace it with your KeyPair Name 
 $path = "C:\Users\HP\Downloads\Security_key.pem"
 
@@ -18,7 +18,7 @@ $username = $env:USERNAME
 icacls.exe $path /GRANT:R "${username}:(R)"
 
 Write-Host "Permissions set successfully for $path"
-
+```
 
 
 # Then Press Enter Two Times
