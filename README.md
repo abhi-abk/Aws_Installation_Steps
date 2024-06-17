@@ -22,3 +22,14 @@ Write-Host "Permissions set successfully for $path"
 
 
 # Then Press Enter Two Times
+
+
+
+
+
+
+# Installing MobaXterminal
+
+click on this link (download link 👍)
+
+```https://mobaxterm.mobatek.net/download.html```
